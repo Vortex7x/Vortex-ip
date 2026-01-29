@@ -1,0 +1,5 @@
+# Add known VPN / Hosting ASNs here (one per line)
+AS13335
+AS16509
+AS14061
+AS8075
